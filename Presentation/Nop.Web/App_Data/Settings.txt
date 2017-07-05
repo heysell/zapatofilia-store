@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=DESKTOP-RH4GFHQ;Initial Catalog=zapatofilia;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=netegrof
